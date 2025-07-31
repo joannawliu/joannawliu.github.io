@@ -37,6 +37,13 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
+      <!-- Custom link -->
+      {% if author.storygraph %}
+        <li><a href="https://app.thestorygraph.com/profile/{{ author.storygraph }}" target="_blank">
+          <img src="{{ base_path }}/images/storygraph-icon.png" alt="Storygraph" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;">StoryGraph
+        </a></li>
+      {% endif %}
+
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
@@ -90,11 +97,6 @@
       {% endif %}      
 
       <!-- Font Awesome icons / Social media -->
-      {% if author.storygraph %}
-        <li><a href="https://app.thestorygraph.com/profile/{{ author.storygraph }}" target="_blank">
-          <img src="{{ base_path }}/images/storygraph-icon.png" alt="Storygraph" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 5px;">StoryGraph
-        </a></li>
-      {% endif %}
       {% if author.artstation %}
         <li><a href="https://www.artstation.com/{{ author.artstation }}"><i class="fab fa-fw fa-artstation icon-pad-right" aria-hidden="true"></i>Artstation</a></li>
       {% endif %}        
