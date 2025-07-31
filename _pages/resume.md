@@ -17,18 +17,23 @@ an abridged resume
 ### Lemonade
 _AI-powered insurtech, Certified B Corp_
 - Data Analyst
+  
 ### New York University
 _quantitative research-based pre-PhD program_
 - Graduate Student Research Assistant & Grader
+
 ### Climate Action Campaign
 _coalition of environmental organizations, 501(c)(3) and 501(c)(4)_
 - Data & Analytics Manager
+
 ### Warren for President
 _presidential campaign, primary_
 - WA State Data Director
+  
 ### it.com
 _contract with AWS for B2B no-code data platform Amazon Honeycode_
 - Software Developer
+  
 ### Virginia Coordinated Campaign
 _campaigns from Virginia House of Delegates to U.S. Senate, general_
 - Deputy Data Director
