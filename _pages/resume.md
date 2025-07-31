@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-an abridged resume
+An abridged resume
 
 
 ## Employment
