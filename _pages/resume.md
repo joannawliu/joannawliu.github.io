@@ -45,6 +45,7 @@ _campaigns from Virginia House of Delegates to U.S. Senate, general_
 _Master's_
 - Wilf Family Department of Politics, pre-PhD program
 - Interests: quantitative methods, American politics, electoral systems, third parties
+  
 ### Harvard University
 _Bachelor's_
 - Concentration: Statistics
