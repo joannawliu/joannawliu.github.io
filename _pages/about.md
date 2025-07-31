@@ -17,7 +17,7 @@ Agile and versatile data professional with technical experience in tech, policy 
 
 ## Skills highlights
 
-BigQuery · dbt · Hex · Looker · Snowflake · SQL · Stitch
+BigQuery · dbt · Git · Hex · Looker/LookML · Matia · Redshift · Snowflake · SQL · Stitch · Tableau · VS Code
 
 
 ## Other interests
