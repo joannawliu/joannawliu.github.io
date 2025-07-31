@@ -22,6 +22,6 @@ BigQuery · dbt · Hex · Looker · Snowflake · SQL · Stitch
 
 ## Other interests
 
-Professionally, I'm especially interested in the various intersections of data, tech, and policy. Outside of work, I enjoy planning my future travels, being the host who does the most, and running the Prospect Park loop.
+Outside work, I enjoy planning my future travels, being the host who does the most, and running the Prospect Park loop.
 
 First-gen professionals, please say hi!
