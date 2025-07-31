@@ -5,9 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# Selected projects
-
-Coverage of some projects I've worked on
+Coverage of selected projects
 
 
 ## For fun
