@@ -7,4 +7,12 @@ layout: single
 author_profile: true
 ---
 
-work in progress
+Debuting my first summer menu
+
+On the menu:
+- if banh mi + bulgogi had a baby 🥖
+
+Drink specials:
+- iced hibiscus pomegranate green tea
+- grape elderflower slushie
+- lychee ginger spritz
