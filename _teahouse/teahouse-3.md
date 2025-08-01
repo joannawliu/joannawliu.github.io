@@ -18,7 +18,7 @@ Auspicious treats:
 - tang yuan
 - tangerines
 - spicy peanut noodles
-- tinned fish + crackers: inspired by Bonnie's BK
+- tinned dace dip + crackers: inspired by <a href = "https://www.bonniesbrooklyn.com/menu" target = "_blank">Bonnie's BK</a>
 
 Unsurprisingly a hit: custom fortune cookies
 
