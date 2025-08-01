@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Agile and versatile data practitioner with technical experience in tech, policy + advocacy, and academia. Skilled at implementing data transformations and building models that empower stakeholders to conduct impactful analyses. Enjoy experimenting with new technologies to streamline workflows, collaborating with cross-functional teams, bridging technical + non-technical stakeholders, and writing clean code. 
+Agile and versatile data practitioner with technical experience in tech, policy + advocacy, and academia. Skilled at implementing data models that empower stakeholders to conduct impactful analyses. Enjoy experimenting with new technologies to streamline workflows, bridging technical + non-technical teams, and writing clean code. 
 
 🎓 Harvard Stats Bachelor’s + NYU Poli Sci Master’s + continuous learning always
 
