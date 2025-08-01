@@ -11,6 +11,7 @@ Debuting my first summer menu
 
 On the menu:
 - if banh mi + bulgogi had a baby 🥖
+- mango sticky rice
 
 Drink specials:
 - iced hibiscus pomegranate green tea
