@@ -1,5 +1,6 @@
 ---
 title: "LNY 2023"
+date: 2023-01-21
 collection: teahouse
 permalink: /teahouse/teahouse-1
 layout: single
