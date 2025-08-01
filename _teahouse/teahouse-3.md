@@ -8,8 +8,7 @@ author_profile: true
 ---
 
 Celebrating The Year of the Dragon! 🐉
-
-
+![LNY 2024](/images/teahouse/teahouse-3.png)
 
 Auspicious treats:
 - assorted candies
@@ -30,3 +29,4 @@ Auspicious activities:
 
 
 Plus: the debut of my guestbook!
+![guestbook](/images/teahouse/teahouse-3-guestbook.png)
