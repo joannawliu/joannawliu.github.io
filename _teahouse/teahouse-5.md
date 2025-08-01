@@ -7,4 +7,14 @@ layout: single
 author_profile: true
 ---
 
-work in progress
+Celebrating the Mid-Autumn Festival 🥮
+
+On the menu:
+- classic Cantonese bakery treats
+- mochi mooncakes
+- affogato: oat vanilla ice cream, drowned in hojicha, + pepero
+
+Drink specials:
+- osmanthus oolong
+- matcha coconut cloud
+- hojicha coconut cloud
