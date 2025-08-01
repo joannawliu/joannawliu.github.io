@@ -8,7 +8,8 @@ author_profile: true
 ---
 
 Celebrating The Year of the Dragon! 🐉
-![LNY 2024](/images/teahouse/teahouse-3.png)
+
+<img src="/images/teahouse/teahouse-3.png" style="width: 50%;">
 
 Auspicious treats:
 - assorted candies
@@ -19,7 +20,9 @@ Auspicious treats:
 - tinned fish + crackers: inspired by Bonnie's BK
 
 Unsurprisingly a hit: custom fortune cookies 🤪
-
+<img src="/images/teahouse/teahouse-3-cookie-1.png" style="width: 50%;">
+<img src="/images/teahouse/teahouse-3-cookie-2.png" style="width: 50%;">
+<img src="/images/teahouse/teahouse-3-cookie-3.png" style="width: 50%;">
 
 
 Auspicious activities:
@@ -29,4 +32,4 @@ Auspicious activities:
 
 
 Plus: the debut of my guestbook!
-![guestbook](/images/teahouse/teahouse-3-guestbook.png)
+<img src="/images/teahouse/teahouse-3-guestbook.png" style="width: 50%;">
