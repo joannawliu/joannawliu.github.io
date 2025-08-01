@@ -7,11 +7,12 @@ layout: single
 author_profile: true
 ---
 
-On the menu:
-- chicken karaage
-- mochi waffles: black sesame, pandan, and ube
+On the menu: 
+- chicken karaage 🍗
+- mochi waffles: black sesame, pandan, and ube 🧇
 
 Drink specials:
 - matcha latte
 - hojicha latte
+- hot apple cider
 - advent calendar surprise: pick a number \[1, 24\]
