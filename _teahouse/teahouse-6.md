@@ -7,4 +7,22 @@ layout: single
 author_profile: true
 ---
 
-work in progress
+Happy Year of the Snake! 🐍
+
+Auspicious snacks:
+- spring rolls
+- steamed dumplings
+- tang yuan
+- tangerines
+- tinned fish + crackers
+- nian gao: new this year!
+
+Assorted candies: 
+- oolong chocolates: souvenir from taiwan
+- matcha chocolates: souvenir from japan
+- gummy snakes
+
+Drink specials:
+- iced jasmine + matcha cloud
+- hojicha hot chocolate
+- toasted rice + coconut lny tea
