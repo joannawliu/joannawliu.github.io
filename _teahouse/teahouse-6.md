@@ -14,8 +14,8 @@ Auspicious snacks:
 - steamed dumplings
 - tang yuan
 - tangerines
-- tinned fish + crackers
-- nian gao: new this year!
+- tinned dace dip + crackers
+- nian gao mochi bites: new this year!
 
 Assorted candies: 
 - oolong chocolates: souvenir from taiwan
