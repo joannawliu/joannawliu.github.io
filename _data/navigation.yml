@@ -20,11 +20,11 @@ main:
   - title: "Resources"
     url: /resources/    
 
-  - title: "Jo's Teahouse"
+  - title: "Creative"
     url: /jos-teahouse/   
         
-  - title: "Favs"
-    url: /favs/
+  # - title: "Favs"
+  #   url: /favs/
     
   # - title: "CV"
   #   url: /cv-json/
