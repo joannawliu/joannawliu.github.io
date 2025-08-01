@@ -17,6 +17,7 @@ Auspicious treats:
 - steamed dumplings
 - tang yuan
 - tangerines
+- spicy peanut noodles
 - tinned fish + crackers: inspired by Bonnie's BK
 
 Unsurprisingly a hit: custom fortune cookies 🤪
