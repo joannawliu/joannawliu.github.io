@@ -7,4 +7,26 @@ layout: single
 author_profile: true
 ---
 
-work in progress
+Celebrating The Year of the Dragon! 🐉
+
+
+
+Auspicious treats:
+- assorted candies
+- spring rolls
+- steamed dumplings
+- tang yuan
+- tangerines
+- tinned fish + crackers: inspired by Bonnie's BK
+
+Unsurprisingly a hit: custom fortune cookies 🤪
+
+
+
+Auspicious activities:
+- fun facts about dragons
+- Chinese knotting
+
+
+
+Plus: the debut of my guestbook!
