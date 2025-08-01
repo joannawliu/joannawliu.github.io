@@ -4,6 +4,4 @@ collection: teahouse
 permalink: /teahouse/teahouse-1
 ---
 
-<h2>work in progress</h2>
-
-<p>:)</p>
+work in progress
