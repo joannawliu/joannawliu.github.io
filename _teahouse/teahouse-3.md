@@ -20,7 +20,7 @@ Auspicious treats:
 - spicy peanut noodles
 - tinned fish + crackers: inspired by Bonnie's BK
 
-Unsurprisingly a hit: custom fortune cookies 🤪
+Unsurprisingly a hit: custom fortune cookies
 
 <img src="/images/teahouse/teahouse-3-cookie-1.png" style="width: 50%;">
 
@@ -33,6 +33,7 @@ Auspicious activities:
 - fun facts about dragons
 - Chinese knotting
 
+<img src="/images/teahouse/teahouse-3-craft.png" style="width: 50%;">
 
 
 Plus: the debut of my guestbook!
