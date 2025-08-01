@@ -7,7 +7,7 @@ layout: single
 author_profile: true
 ---
 
-Happy Year of the Snake! 🐍
+The 3rd annual LNY Jo's Teahouse — happy Year of the Snake! 🐍
 
 Auspicious snacks:
 - spring rolls
