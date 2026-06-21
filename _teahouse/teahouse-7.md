@@ -27,14 +27,14 @@ author_profile: true
 ## Instructions
 
 ### Blueberry swirl
-1. Over medium-low heat, combine 100g (~0.75 cup) frozen blueberries with 5g (~1 tsp) lemon juice in a small saucepan
+1. Over medium-low heat, combine 100g (~0.75 cup) frozen blueberries with 5g (~1 tsp) lemon juice in a small saucepan. *(Experiment with greater volume of blueberries and/or adding granulated sugar — depends on preferred proportions)*
 2. As the mixture heats, mash the berries with a fork or spatula
 3. Simmer until mixture reduces into a syrupy jam
 4. Press the warm mixture firmly through a fine-mesh sieve into a bowl for a smooth puree
 5. Chill the compote in the fridge
 
 ### Sweet corn base
-1. Blend: 150g dry raw cashews; 320g can of condensed oat milk; 250g (~1.5 cups) sweet corn; pinch of fine sea salt
+1. Blend: 150g dry raw cashews; 320g can of condensed oat milk; 250g (~1.5 cups) sweet corn; pinch of fine sea salt. *(If using frozen corn, make sure thawed and dried)*
 2. Taste and adjust if needed: it should taste stronger and sweeter at room temp than later after frozen
 3. (optional) Pass the custard through a fine-mesh sieve for a smoother texture
 
@@ -44,3 +44,8 @@ author_profile: true
 3. Drop spoonfuls of the cold blueberry mixture on top
 4. Use a butter knife or chopstick to draw swirls, but don't over-mix
 5. Return to freezer for ~4 hours
+
+### (optional) Toppings
+1. Crush corn flake cereal
+2. Toss with brown sugar and pinch of sea salt
+3. Toast until corn flakes are golden and sugar has caramelized
