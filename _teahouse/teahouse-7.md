@@ -1,5 +1,5 @@
 ---
-title: "Blueberry Cornbread Ice Cream"
+title: "[Recipe] Blueberry Cornbread Ice Cream"
 date: 2026-06-19
 collection: teahouse
 permalink: /teahouse/recipe-1
@@ -7,7 +7,14 @@ layout: single
 author_profile: true
 ---
 
-*vegan and without ice cream maker*
+🫐🌽 *vegan and without ice cream maker*
+
+## Tools
+- saucepan
+- fork or spatula
+- fine-mesh sieve
+- blender
+- shallow baking pan with fitted lid
 
 ## Ingredients
 - 100g (~0.75 cup) frozen blueberries
@@ -16,6 +23,8 @@ author_profile: true
 - 320g can of condensed oat milk
 - 250g (~1.5 cups) sweet corn
 - pinch of fine sea salt
+
+## Instructions
 
 ### Blueberry swirl
 1. Over medium-low heat, combine 100g (~0.75 cup) frozen blueberries with 5g (~1 tsp) lemon juice in a small saucepan
